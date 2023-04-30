@@ -156,10 +156,16 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Original project: 
+- Joann Vuong - [GitHub](https://github.com/jvpupcat)
 
-Second part of Airbnb: Joann Vuong
+Work forked from [this repository](https://github.com/alexaorrico/AirBnB_clone_v2) wrote by:
+- Alexa Orrico - [GitHub](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
+- Jennifer Huang - [GitHub](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+
+Improved by:
+- Moges Amane - [GitHub](https://github.com/stoicism-sympathei) / [Twitter](https://twitter.com/GlassMa61351088)  
+
 ## License
 Public Domain. No copy write protection. 
 >>>>>>> 0e0c3809a0163bc9e78f5689a9145452a504827f
