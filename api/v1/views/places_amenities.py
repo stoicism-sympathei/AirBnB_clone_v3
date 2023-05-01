@@ -13,8 +13,6 @@ from models.review import Review
 from models.user import User
 from models.amenity import Amenity
 
-storage_t = 'db'
-
 @app_views.route('/places/<id>/amenities', methods=['GET'])
 def places_id_amenities(id):
     """
