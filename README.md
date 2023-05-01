@@ -165,6 +165,7 @@ Work forked from [this repository](https://github.com/alexaorrico/AirBnB_clone_v
 
 Improved by:
 - Moges Amane - [GitHub](https://github.com/stoicism-sympathei) / [Twitter](https://twitter.com/GlassMa61351088)  
+- Gabriel Tindi - [Github](https://github.com/Gtindi) / [Twitter](https://twitter.com/GabrielTindi)
 
 ## License
 Public Domain. No copy write protection. 
