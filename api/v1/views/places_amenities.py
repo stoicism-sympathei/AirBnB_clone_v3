@@ -2,9 +2,12 @@
 """
     This is the places amenities page handler for Flask.
 """
-from flask import abort, jsonify, request
+from api.v1.views.places import places_id
 from api.v1.views import app_views
+from api.v1 import *
 from models import storage
+from flask import abort, jsonify, request
+
 from models.place import Place
 from models.review import Review
 from models.user import User
